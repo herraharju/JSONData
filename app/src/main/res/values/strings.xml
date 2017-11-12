@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JSONData</string>
+    <string name="btn_send">Send answers</string>
+</resources>
